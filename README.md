@@ -12,9 +12,6 @@ A [MusicBee](https://www.getmusicbee.com/) plugin that writes information about 
 - Automatically converts cover art to the format matching your chosen file extension
 - Reports shuffle, Auto DJ and repeat state
 - Configurable output paths via a settings dialog inside MusicBee
-- Writes to a temporary file first and then replaces, so an external reader never sees a half-written file
-- Errors are logged to a file on the desktop
-
 ---
 
 ## Output
