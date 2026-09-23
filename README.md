@@ -37,7 +37,7 @@ repeat=none
 | `artist` | Artist name |
 | `title` | Track title |
 | `album` | Album name |
-| `love` | `1` = loved, `-1` = banned, `0` = neither |
+| `love` | `1` = loved, ` `0` = not loved |
 | `duration` | Total track length (`m:ss` or `h:mm:ss`) |
 | `position` | Current playback position (`m:ss` or `h:mm:ss`) |
 | `shuffle` | `1` = on, `0` = off |
